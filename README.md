@@ -1,4 +1,4 @@
-Hello, World! 👋
+ Hello, World! 👋
 Welcome to my GitHub profile! I'm Mulindi, a passionate software developer and tech enthusiast. 
 Here's a brief overview of who I am and what you can find in my repositories.
 
@@ -37,8 +37,10 @@ Feel free to explore my repositories to discover more interesting projects!
 Let's Connect 🤝
 I'm always open to collaboration and learning from others. Connect with me on:
 
-LinkedIn: [](LinkedIn Profile URL)
-Twitter: [Your Twitter Profile](Twitter Profile URL)
+LinkedIn: [https://www.linkedin.com/in/mulindi-jr-718a3a283]
+Twitter:[https://twitter.com/mulindijr?t=plLR3OfnQbXsV8zTz0TvVQ&s=09]
+Instagram:[https://instagram.com/mulindijr?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D]
+
 Feel free to reach out if you have any questions or just want to say hi!
 
 Support Me ☕
