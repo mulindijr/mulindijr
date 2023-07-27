@@ -1,50 +1,36 @@
- Hello, World! 👋
-Welcome to my GitHub profile! I'm Mulindi, a passionate software developer and tech enthusiast. 
-Here's a brief overview of who I am and what you can find in my repositories.
+<h1>Hello, Devs! 👋 </h1>
+<p></p>Welcome to my GitHub profile! I'm <strong>Mulindi</strong>, a passionate software developer and tech enthusiast. 
+Here's a brief overview of who I am and what you can find in my repositories.</p>
 
-About Me 🧑‍💻
-🌱 I’m currently exploring various programming languages and frameworks.
-🚀 I love building innovative projects and learning new technologies.
-🎓 Graduated with a degree in Software Engineering in Moringa School.
-📫 How to reach me: [mulindijrn@gmail.com]
+<h3>About Me 🧑‍💻</h3>
+🌱 I’m currently exploring various programming languages and frameworks.<br>
+🚀 I love building innovative projects and learning new technologies.<br>
+🎓 Graduated with a degree in Software Engineering from Moringa School.<br>
 
-My Interests 🔍
-I have a keen interest in the following areas:
 
-Software Development
-Web Development
-Data Science
-Machine Learning
-Open Source Projects
+<h3>My Interests 🔍</h3> 
+I have a keen interest in the following areas:<br>
 
-Technologies and Tools 🛠️
-Here are some of the technologies and tools I frequently work with:
+>Software Development<br>
+>Web Development<br>
+>Data Science<br>
+>Machine Learning<br>
+>Open Source Projects<br>
 
-Programming Languages: [JAVASCRIPT, PYTHON, PHP, JAVA]
-Front-end Development: [HTML, CSS, JAVASCRIPT, REACT ]
-Back-end Development: [PYTHON DJANGO, RUBY ON RAILS, NODE.JS]
-Databases: [MYSQL, MONGODB]
-Frameworks: [REACT, REACT NATIVE, DJANGO, LARAVEL]
-Tools: [VISUAL STUDIO CODE, GIT, NODE PACKAGE MANAGER]
+<h3>Technologies and Tools 🛠️</h3>
+Here are some of the technologies and tools I frequently work with: <br>
 
-My Projects 🚧
-Here are some of the highlighted projects available in my repositories:
+Programming Languages: <br>
+[![My Skills](https://skillicons.dev/icons?i=js,python,php,java)](https://skillicons.dev)
 
-TechHaven - An E-commerce website dealing with electronic devices.
+Front-end Development: <br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev)
 
-Feel free to explore my repositories to discover more interesting projects!
+Back-end Development: <br>
+[![My Skills](https://skillicons.dev/icons?i=django,ruby,laravel,nodejs)](https://skillicons.dev)
 
-Let's Connect 🤝
-I'm always open to collaboration and learning from others. Connect with me on:
+Databases: <br>
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
 
-LinkedIn: [https://www.linkedin.com/in/mulindi-jr-718a3a283]
-Twitter:[https://twitter.com/mulindijr?t=plLR3OfnQbXsV8zTz0TvVQ&s=09]
-Instagram:[https://instagram.com/mulindijr?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D]
-
-Feel free to reach out if you have any questions or just want to say hi!
-
-Support Me ☕
-If you find value in my projects and contributions, consider buying me a coffee:
-
-M-PESA:0713621330
-Thank you for visiting my GitHub profile! Have a great day! 😄
+<h3>My Projects 🚧 </h3>
+TechHaven - An E-commerce website dealing with electronic devices. <br>
