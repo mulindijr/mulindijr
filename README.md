@@ -30,3 +30,12 @@ Here are some of the technologies and tools I frequently work with: <br>
 
 #### Databases: <br>
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
+
+<center>
+  <table>
+  <tr>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=mulindijr&count_private=true&theme=gotham&show_icons=true" /></td>
+      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mulindijr&layout=compact&theme=gotham&langs_count=10" /></td>
+  </tr>   
+  </table>
+</center>
