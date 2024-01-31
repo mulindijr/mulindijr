@@ -5,15 +5,15 @@ Here's a brief overview of who I am and what you can find in my repositories.
 ### About Me 
 🌱 I’m currently exploring various programming languages and frameworks.<br>
 🚀 I love building innovative projects and learning new technologies.<br>
-🎓 Currently pursuing my degree in Software Engineering at Moringa School.
+🎓 I am currently learning Software Engineering at Moringa School.
 
 
 ### My Interests
 I have a keen interest in the following areas:<br>
 
-- Software Development<br>
-- Data Science<br>
-- Machine Learning<br>
+- Front-end development with Reactjs<br>
+- Back-end development with Flask and Django<br>
+- React Native for mobile applications<br>
 - Open Source Projects<br>
 ---
 ### Technologies and Tools 
@@ -30,7 +30,6 @@ Here are some of the technologies and tools I frequently work with: <br>
 [<img align="left" alt="Node.js" width="30px" src="https://user-images.githubusercontent.com/68158625/111181059-a39a2200-85be-11eb-936e-f35d0c02ff0f.png" />][github]
 [<img align="left" alt="MongoDB" width="30px" src="https://user-images.githubusercontent.com/68158625/111181186-c1678700-85be-11eb-8db0-e208ba288f5c.png" />][github]
 [<img align="left" alt="Git" width="30px" src="https://user-images.githubusercontent.com/68158625/111172863-3cc53a80-85b7-11eb-8631-2878c0e254bf.png" />][github]
-[<img align="left" alt="Material UI" width="26px" src="https://user-images.githubusercontent.com/68158625/111176327-4a2ff400-85ba-11eb-8be3-c0480a83c00e.png" />][github]
 [<img align="left" alt="Linux" width="26px" src="https://user-images.githubusercontent.com/68158625/111181844-6d10d700-85bf-11eb-9703-fb4236968c39.png" />][github]
 
 <br />
