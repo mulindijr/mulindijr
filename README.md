@@ -1,4 +1,4 @@
-### Hello, Devs! 
+### Hello, Devs!  [![](https://visitcount.itsvg.in/api?id=mulindijr&icon=0&color=0)](https://visitcount.itsvg.in)
 Welcome to my GitHub profile! I'm <strong>Mulindi</strong>, a passionate software developer and tech enthusiast. 
 Here's a brief overview of who I am and what you can find in my repositories.
 
