@@ -1,4 +1,5 @@
-### Hello, Devs!  [![](https://visitcount.itsvg.in/api?id=mulindijr&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### Hello, Devs!  <p align=right>[![](https://visitcount.itsvg.in/api?id=mulindijr&icon=0&color=0)](https://visitcount.itsvg.in)</p>
 Welcome to my GitHub profile! I'm <strong>Mulindi</strong>, a passionate software developer and tech enthusiast. 
 Here's a brief overview of who I am and what you can find in my repositories.
 
@@ -49,8 +50,21 @@ Here are some of the technologies and tools I frequently work with: <br>
 <br />
 
 ---
-
+<div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mulindijr&theme=gotham" alt="Ace-Krypton" /></p> 
+</div>
+
+---
+<div align="center">
+
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mulindijr&theme=gotham" height="180em" />
+</div>
+
+---
+<div align="center">
+  
+![](https://github-contributor-stats.vercel.app/api?username=mulindijr&limit=5&theme=gotham&combine_all_yearly_contributions=true)
+</div>
 
 [twitter]: https://twitter.com/mulindijr
 [instagram]: https://www.instagram.com/mulindijr/?hl=en
